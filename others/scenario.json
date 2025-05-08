@@ -1,0 +1,149 @@
+{
+  "accounts": {
+    "account{0}": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1746631631595,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x8da63f8e560404b6711a2e9b8bffd04ea096ae1da4d176b0df0344fd64df1035",
+        "contractName": "AccessControl",
+        "bytecode": "6080604052348015600e575f80fd5b506102618061001c5f395ff3fe608060405234801561000f575f80fd5b506004361061003f575f3560e01c80630ae5e739146100435780631828983a1461005f578063ecb101351461008f575b5f80fd5b61005d600480360381019061005891906101cd565b6100ad565b005b610079600480360381019061007491906101cd565b610104565b6040516100869190610212565b60405180910390f35b610097610120565b6040516100a49190610212565b60405180910390f35b60015f808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff02191690831515021790555050565b5f602052805f5260405f205f915054906101000a900460ff1681565b5f805f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f9054906101000a900460ff16905090565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f61019c82610173565b9050919050565b6101ac81610192565b81146101b6575f80fd5b50565b5f813590506101c7816101a3565b92915050565b5f602082840312156101e2576101e161016f565b5b5f6101ef848285016101b9565b91505092915050565b5f8115159050919050565b61020c816101f8565b82525050565b5f6020820190506102255f830184610203565b9291505056fea2646970667358221220ede31dec0306ff47d154b134a36b7388b47fb9c6a49a932c2d1adef58131364364736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1746631821230,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x79511b3357936453ca9c40b214a85b4b0b8fa79c5a11d44554e6a3c04b03a2d5",
+        "contractName": "AccessControl",
+        "bytecode": "6080604052348015600e575f80fd5b506102618061001c5f395ff3fe608060405234801561000f575f80fd5b506004361061003f575f3560e01c80630ae5e739146100435780631828983a1461005f578063ecb101351461008f575b5f80fd5b61005d600480360381019061005891906101cd565b6100ad565b005b610079600480360381019061007491906101cd565b610104565b6040516100869190610212565b60405180910390f35b610097610120565b6040516100a49190610212565b60405180910390f35b60015f808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff02191690831515021790555050565b5f602052805f5260405f205f915054906101000a900460ff1681565b5f805f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f9054906101000a900460ff16905090565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f61019c82610173565b9050919050565b6101ac81610192565b81146101b6575f80fd5b50565b5f813590506101c7816101a3565b92915050565b5f602082840312156101e2576101e161016f565b5b5f6101ef848285016101b9565b91505092915050565b5f8115159050919050565b61020c816101f8565b82525050565b5f6020820190506102255f830184610203565b9291505056fea2646970667358221220ede31dec0306ff47d154b134a36b7388b47fb9c6a49a932c2d1adef58131364364736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1746631970409,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x8da63f8e560404b6711a2e9b8bffd04ea096ae1da4d176b0df0344fd64df1035",
+        "contractName": "AccessControl",
+        "bytecode": "6080604052348015600e575f80fd5b506102618061001c5f395ff3fe608060405234801561000f575f80fd5b506004361061003f575f3560e01c80630ae5e739146100435780631828983a1461005f578063ecb101351461008f575b5f80fd5b61005d600480360381019061005891906101cd565b6100ad565b005b610079600480360381019061007491906101cd565b610104565b6040516100869190610212565b60405180910390f35b610097610120565b6040516100a49190610212565b60405180910390f35b60015f808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff02191690831515021790555050565b5f602052805f5260405f205f915054906101000a900460ff1681565b5f805f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f9054906101000a900460ff16905090565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f61019c82610173565b9050919050565b6101ac81610192565b81146101b6575f80fd5b50565b5f813590506101c7816101a3565b92915050565b5f602082840312156101e2576101e161016f565b5b5f6101ef848285016101b9565b91505092915050565b5f8115159050919050565b61020c816101f8565b82525050565b5f6020820190506102255f830184610203565b9291505056fea2646970667358221220ede31dec0306ff47d154b134a36b7388b47fb9c6a49a932c2d1adef58131364364736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {
+    "0x8da63f8e560404b6711a2e9b8bffd04ea096ae1da4d176b0df0344fd64df1035": [
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          }
+        ],
+        "name": "grantAccess",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "authorizedUsers",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "checkAccess",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ],
+    "0x79511b3357936453ca9c40b214a85b4b0b8fa79c5a11d44554e6a3c04b03a2d5": [
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "user",
+            "type": "address"
+          }
+        ],
+        "name": "grantAccess",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "authorizedUsers",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "checkAccess",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
+  }
+}
